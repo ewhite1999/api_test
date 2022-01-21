@@ -13,16 +13,17 @@
 ```
  "scripts": {
     "test": "jest --watchAll",
-    "start": "node server.js"
+    "start": "node server.js",
+    "dev": "nodemon index.js"
    },
 ```
 
 
 **Organizing the content**
 
-1. index.js
-2. server.js
-3. data.json
+1. Create index.js
+2. Create server.js
+3. Create data.js
 
 
 
